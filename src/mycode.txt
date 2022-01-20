@@ -1,3 +1,5 @@
 a short line of content to the mycode text file
 add a second line of content to the mycode text file
 add a third line of content to the mycode text file
+added a forth line of content to the mycode text file for the branch exercise
+added a fifth line of content to the mycode text file for the  branch exercise twice due to error
