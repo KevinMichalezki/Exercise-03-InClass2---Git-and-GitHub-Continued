@@ -1,6 +1,0 @@
-a short line of content to the mycode text file
-add a second line of content to the mycode text file
-add a third line of content to the mycode text file
-another short line of content for the mycode text file
-added another line of content and code to this file
-and another line to create the merge conflict
